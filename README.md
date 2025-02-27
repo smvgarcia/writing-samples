@@ -32,7 +32,7 @@ The new documentation was created by converting the old Sphynx documentation to 
 
 I helped to convert all of the BRH documentation to MkDocs and expand several sections. However, the section on which I had the most significant impact was the documentation for our beta-testers to use for testing our Nextflow execution in the workspace. With the exception of the first page, I created these documents *de novo* after working through the process myself. 
 
-* I created these docs to help beta-testers understand how to use Nextflow and create security-compliant containers for use in BRH Workspaces (note this link is the first of several pages): [https://uc-cdis.github.io/BRH-documentation/01-home/](https://uc-cdis.github.io/BRH-documentation/nextflow-getting-started/)
+* I created these docs to help beta-testers understand how to use Nextflow and create security-compliant containers for use in BRH Workspaces (note this link is the first of several pages): [https://uc-cdis.github.io/BRH-documentation/nextflow-getting-started/](https://uc-cdis.github.io/BRH-documentation/nextflow-getting-started/)
 
 ## Example files uploaded to this repo
 
