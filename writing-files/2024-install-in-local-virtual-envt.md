@@ -142,7 +142,7 @@ A virtual environment (VE, or sometimes venv) is a tool that helps to keep depen
         Successfully installed MarkupSafe-2.1.1 PyYAML-6.0 certifi-2022.9.24 charset-normalizer-2.1.1 click-8.1.3 ghp-import-2.1.0 idna-3.4 importlib-metadata-5.0.0 jinja2-3.1.2 markdown-3.3.7 mergedeep-1.3.4 mkdocs-1.4.0 mkdocs-material-8.5.6 mkdocs-material-extensions-1.0.3 packaging-21.3 pygments-2.13.0 pymdown-extensions-9.6 pyparsing-3.0.9 python-dateutil-2.8.2 pyyaml-env-tag-0.1 requests-2.28.1 six-1.16.0 urllib3-1.26.12 watchdog-2.1.9 zipp-3.9.0
         ```
 ## Verify what's installed with `pip freeze`
-If you want, you can verify what's installed in your VE using `pip freeze`. If you want to make a record of what's installed, you can [send the list to a requirements.txt *(see separate support doc for that](https://github.com/uc-cdis/PX-US-KB/blob/master/PX-US-KB/docs/08-reqts-txt-record-envt-details.md))*. 
+If you want, you can verify what's installed in your VE using `pip freeze`. If you want to make a record of what's installed, you can send the list to a requirements.txt. 
 
         ```
         (mkdocs) (base) saravolkdegarcia@Saras-MBP virtalenvs % pip freeze
