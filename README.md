@@ -3,9 +3,9 @@
 Described below:
 
 * [Gen3 platform documentation update](#gen3-platform-documentation-update)
-* [VA Data Commons documentation]
-* [Nextflow in BRH workspaces]
-* [Examples uploaded to this repo]
+* [VA Data Commons documentation](#va-data-commons-documentation)
+* [Nextflow in BRH workspaces](#nextflow-in-brh-workspaces)
+* [Example files uploaded to this repo](#example-files-uploaded-to-this-repo)
 
 
 ## Some examples online
@@ -34,7 +34,7 @@ I helped to convert all of the BRH documentation to MkDocs and expand several se
 
 * I created these docs to help beta-testers understand how to use Nextflow and create security-compliant containers for use in BRH Workspaces (note this link is the first of several pages): [https://uc-cdis.github.io/BRH-documentation/01-home/](https://uc-cdis.github.io/BRH-documentation/nextflow-getting-started/)
 
-## Examples uploaded to this repo
+## Example files uploaded to this repo
 
 *(listed from most recent to oldest)*
 
