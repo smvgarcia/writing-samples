@@ -19,7 +19,9 @@ The new documentation was created by converting the old documentation from Hugo 
 * Old Gen3 platform docs site (in Hugo): [https://gen3.org/resources/](https://gen3.org/resources/)
 * Old Gen3 Helm docs site (in Docusaurus): [https://old.docs.gen3.org/](https://old.docs.gen3.org/)
 * New Gen3 platform docs site (in MkDocs, with Helm integrated): [https://docs.gen3.org/](https://docs.gen3.org/) 
-* I had the most impact on the Helm section of the Gen3 documentation: [https://docs.gen3.org/gen3-resources/operator-guide/helm/](https://docs.gen3.org/gen3-resources/operator-guide/helm/) 
+* I had the most impact on the Helm section of the Gen3 documentation: [https://docs.gen3.org/gen3-resources/operator-guide/helm/](https://docs.gen3.org/gen3-resources/operator-guide/helm/), and particularly these two guides:
+  * the [guide to minimum local Gen3 deployment with Helm](https://docs.gen3.org/gen3-resources/operator-guide/helm/helm-deploy-example/)
+  * the [guide to configuration for Gen3 Helm](https://docs.gen3.org/gen3-resources/operator-guide/helm/helm-config/)
 
 ### VA Data Commons documentation 
 
