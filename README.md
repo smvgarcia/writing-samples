@@ -10,7 +10,7 @@ Described below:
 
 ## Some examples online
 
-In general, all of these documents were created as Markdown files using VS Code, then Material for MkDocs was used to build documentation from the Markdown files. The static site is hosted in GitHub Pages. 
+In general, all of these documents were created as Markdown files using VS Code, then Material for MkDocs was used to build documentation from the Markdown files. The static site is hosted in GitHub Pages. All of these online documentations are from 2023-2025.
 
 ### Gen3 platform documentation update
 
