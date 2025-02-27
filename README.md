@@ -1,5 +1,13 @@
 # Sara's writing samples
 
+Described below:
+
+* [Gen3 platform documentation update](#gen3-platform-documentation-update)
+* [VA Data Commons documentation]
+* [Nextflow in BRH workspaces]
+* [Examples uploaded to this repo]
+
+
 ## Some examples online
 
 In general, all of these documents were created as Markdown files using VS Code, then Material for MkDocs was used to build documentation from the Markdown files. The static site is hosted in GitHub Pages. 
@@ -13,7 +21,7 @@ The new documentation was created by converting the old documentation from Hugo 
 * New Gen3 platform docs site (in MkDocs, with Helm integrated): [https://docs.gen3.org/](https://docs.gen3.org/) 
 * I had the most impact on the Helm section of the Gen3 documentation: [https://docs.gen3.org/gen3-resources/operator-guide/helm/](https://docs.gen3.org/gen3-resources/operator-guide/helm/) 
 
-### VADC docs 
+### VA Data Commons documentation 
 
 The new documentation was created by converting the old Sphynx documentation to MkDocs, adding additional tool context and general instructions for logging in, and expanding the instructions and updating the screenshots for several of the apps. I am the only person who updated the documentation from the old content. 
 
@@ -30,7 +38,7 @@ I helped to convert all of the BRH documentation to MkDocs and expand several se
 
 *(listed from most recent to oldest)*
 
-* `2024-install-in-local-virtual-envt.md`: This file was created to help colleagues understand how and why to use a virtual environment when installing software. I created this entirely myself. 
+* `2024-install-in-local-virtual-envt.md`: This file was created in 2024 to help colleagues understand how and why to use a virtual environment when installing software. I created this entirely myself. 
 * `2017-ACCESS-grant-proposal.pdf`: This is a funded grant proposal that I helped to write with several colleagues. I did not write the first draft, but I helped with revisions and editing.
 * `2012-selected-bridges-grant-pieces`: This folder holds several grant pieces from a funded grant proposal. I wrote the initial draft based on my own program vision, and revised based on comments from several readers.
 * `2008-idiots-guide-to-BEAST.pdf`: This is internal documentation I created to help members of my postdoc lab after I taught myself how to use the BEAST suite of software. I created this myself, except for sections that indicate they were taken from the BEAST manual. 
